@@ -1,0 +1,15 @@
+/Users/thomasmarquardt/repos/DataMigratePro-AzureRelay/FunctionTestClient/bin/Debug/net7.0/FunctionTestClient
+/Users/thomasmarquardt/repos/DataMigratePro-AzureRelay/FunctionTestClient/bin/Debug/net7.0/FunctionTestClient.deps.json
+/Users/thomasmarquardt/repos/DataMigratePro-AzureRelay/FunctionTestClient/bin/Debug/net7.0/FunctionTestClient.runtimeconfig.json
+/Users/thomasmarquardt/repos/DataMigratePro-AzureRelay/FunctionTestClient/bin/Debug/net7.0/FunctionTestClient.dll
+/Users/thomasmarquardt/repos/DataMigratePro-AzureRelay/FunctionTestClient/bin/Debug/net7.0/FunctionTestClient.pdb
+/Users/thomasmarquardt/repos/DataMigratePro-AzureRelay/FunctionTestClient/obj/Debug/net7.0/FunctionTestClient.csproj.AssemblyReference.cache
+/Users/thomasmarquardt/repos/DataMigratePro-AzureRelay/FunctionTestClient/obj/Debug/net7.0/FunctionTestClient.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thomasmarquardt/repos/DataMigratePro-AzureRelay/FunctionTestClient/obj/Debug/net7.0/FunctionTestClient.AssemblyInfoInputs.cache
+/Users/thomasmarquardt/repos/DataMigratePro-AzureRelay/FunctionTestClient/obj/Debug/net7.0/FunctionTestClient.AssemblyInfo.cs
+/Users/thomasmarquardt/repos/DataMigratePro-AzureRelay/FunctionTestClient/obj/Debug/net7.0/FunctionTestClient.csproj.CoreCompileInputs.cache
+/Users/thomasmarquardt/repos/DataMigratePro-AzureRelay/FunctionTestClient/obj/Debug/net7.0/FunctionTestClient.dll
+/Users/thomasmarquardt/repos/DataMigratePro-AzureRelay/FunctionTestClient/obj/Debug/net7.0/refint/FunctionTestClient.dll
+/Users/thomasmarquardt/repos/DataMigratePro-AzureRelay/FunctionTestClient/obj/Debug/net7.0/FunctionTestClient.pdb
+/Users/thomasmarquardt/repos/DataMigratePro-AzureRelay/FunctionTestClient/obj/Debug/net7.0/FunctionTestClient.genruntimeconfig.cache
+/Users/thomasmarquardt/repos/DataMigratePro-AzureRelay/FunctionTestClient/obj/Debug/net7.0/ref/FunctionTestClient.dll

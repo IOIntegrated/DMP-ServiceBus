@@ -1,0 +1,12 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+        "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+        "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+        "APPLICATIONINSIGHTS_CONNECTION_STRING": "",
+        "Logging:LogLevel:Default": "Information",
+        "ServiceBusConnectionString": "Endpoint=sb://dmp-bus.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=+0TvQY4wlJVo1YcsQfxmnHnuDWCcr1Soe+ASbDnk87o=",
+        "RequestQueueName": "requests",
+        "ResponseQueueName": "responses"
+    }
+}
