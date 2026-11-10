@@ -41,6 +41,7 @@ Deploying Azure Function to Azure
 * Azure Subscription
 * Azure CLI (`az`)
 * Azure Functions Core Tools (`func`)
+* .NET 10 SDK
 
 ### Steps
 
@@ -57,6 +58,7 @@ az functionapp create \
   --resource-group <your_resource_group> \
   --consumption-plan-location <region> \
   --runtime dotnet-isolated \
+  --runtime-version 10 \
   --functions-version 4 \
   --name <your_function_name> \
   --storage-account <your_storage_account>
@@ -109,7 +111,7 @@ To test the **SendToDMP** Azure Function locally:
 
 ### 1. Prerequisites
 
-* [.NET 8 SDK](https://dotnet.microsoft.com/)
+* [.NET 10 SDK](https://dotnet.microsoft.com/)
 * [Azure Functions Core Tools](https://learn.microsoft.com/en-us/azure/azure-functions/functions-run-local)
 
 Install via npm if needed:

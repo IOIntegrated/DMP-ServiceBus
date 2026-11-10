@@ -1,0 +1,8 @@
+FunctionAppNet8/bin/
+FunctionAppNet8/obj/
+FunctionAppNet8/publish/
+FunctionTestClient/obj/
+FunctionTestClient/bin/
+FunctionTestClient/obj/
+Token/SasTokenGen/obj/
+FunctionTestClient/obj/
